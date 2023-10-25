@@ -8,6 +8,7 @@ gem 'rails', '~> 7.0.8'
 gem 'rubocop', '>= 1.0', '< 2.0'
 # Use sqlite3 as the database for Active Record
 gem 'pg'
+gem 'rack-cors'
 
 # Use the Puma web server [https://github.com/puma/puma]
 gem 'puma', '~> 5.0'
